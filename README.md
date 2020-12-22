@@ -52,10 +52,10 @@ Youtube Channels
 - [Program With Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw)
 
 
--[Ben Award](https://www.youtube.com/user/99baddawg)
+- [Ben Award](https://www.youtube.com/user/99baddawg)
 
 
--[Code with Chris](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw)
+- [Code with Chris](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw)
 
 
 
