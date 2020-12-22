@@ -115,7 +115,7 @@ Feel free to reach out to me! 😊 <br />
 - [hackr](https://hackr.io)
   
 
-- [Bento)](https://bento.io)
+- [Bento)](https://bento.io )
 
 
 - [Codeavengers](https://www.codeavengers.com)
