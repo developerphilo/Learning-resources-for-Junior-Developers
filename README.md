@@ -25,7 +25,7 @@ Feel free to reach out to me! 😊 <br />
 
 
 
-Youtube Channels
+<h2>Youtube Channels</h2>
 
 
  - [Traversy Media ](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
@@ -56,6 +56,71 @@ Youtube Channels
 
 
 - [Code with Chris](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw)
+
+
+
+
+
+<h2>Programming Websites</h2>
+
+
+- [W3schools)](https://www.w3schools.com)
+
+ - [Hackerrank ](https://www.hackerrank.com)
+  
+
+ - [Freecodecamp](https://www.freecodecamp.org)
+  
+
+ - [ Udemy ](https://www.udemy.com)
+  
+
+ - [Solo Learn](https://www.sololearn.com)
+  
+
+ - [Codecademy](https://www.codecademy.com)
+
+
+ - [Codewars](https://www.codewars.com)
+  
+  
+- [bitdegree ](https://www.bitdegree.org)
+  
+
+- [Coursera ](https://www.coursera.org)
+
+
+- [Edx](https://www.edx.org)
+
+
+- [Khanacademy](https://www.khanacademy.org/)
+
+
+
+ - [Code](https://code.org)
+
+
+ - [dash.generalassemb.ly](https://dash.generalassemb.ly)
+  
+  
+- [codeconquest](https://www.codeconquest.com)
+  
+
+- [MITopensourseware](https://ocw.mit.edu)
+
+
+- [Theodinproject](https://www.theodinproject.com)
+- 
+
+- [hackr](https://hackr.io)
+  
+
+- [Bento)](https://bento.io)
+
+
+- [Codeavengers](https://www.codeavengers.com)
+
+
 
 
 
