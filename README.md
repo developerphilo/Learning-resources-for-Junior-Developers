@@ -7,7 +7,7 @@
 ---
 
 Feel free to reach out to me! 😊 <br />
-<a href="https://www.instagram.com/amjohnphilip">Instagram</a> || <a href="https://www.twitter.com/amjohnphilip">Twitter</a> || <a href="https://www.linkedin.com/in/amjohnphilip">LinkedIn</a> || <a href="http://portfolio-blogsite.netlify.app/">Blog</a>
+<a href="https://www.instagram.com/amjohnphilip">Instagram</a> || <a href="https://www.twitter.com/amjohnphilip">Twitter</a> || <a href="https://www.linkedin.com/in/amjohnphilip">LinkedIn</a> || <a href="https://amjohnphilip.medium.com/">Blog</a> ||  <a href="https://www.youtube.com/channel/UCNCzNrpq0fHxFqQYCmbwAcA">Youtube</a> ||
 </div>
 
 | Feel free to use these amazing learning resources 😃  I would _really_ appreciate a reference to this repo and the community helps me so much to maintain and improve it! 💪🏼 Thank you and have fun!   |
@@ -64,7 +64,7 @@ Feel free to reach out to me! 😊 <br />
 <h2>Programming Websites</h2>
 
 
-- [W3schools)](https://www.w3schools.com)
+- [W3schools](https://www.w3schools.com)
 
  - [Hackerrank ](https://www.hackerrank.com)
   
@@ -123,6 +123,35 @@ Feel free to reach out to me! 😊 <br />
 
 
 
+<h2>Programming Technical Blogsites/Tutorials</h2>
 
+- [Sitepoint](https://www.sitepoint.com)
+  
+
+- [csstricks](https://css-tricks.com)
+  
+
+- [Scotch](https://scotch.io)
+
+
+- [Medium](https://medium.com)
+
+
+
+
+
+
+
+
+
+
+
+<H2>Contribution</H3>
+
+To contribute to this repository, just fork and add some amazing resources.
+
+
+
+>All these resources are great but only if you get your hands dirty with them. PRACTICE PRACTICE PRACTICE 
 
 
