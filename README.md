@@ -110,12 +110,12 @@ Feel free to reach out to me! 😊 <br />
 
 
 - [Theodinproject](https://www.theodinproject.com)
-- 
+  
 
 - [hackr](https://hackr.io)
   
 
-- [Bento)](https://bento.io )
+- [Bento](https://bento.io )
 
 
 - [Codeavengers](https://www.codeavengers.com)
