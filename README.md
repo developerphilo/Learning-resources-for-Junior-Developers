@@ -10,8 +10,8 @@ Feel free to reach out to me! 😊 <br />
 <a href="https://www.instagram.com/amjohnphilip">Instagram</a> || <a href="https://www.twitter.com/amjohnphilip">Twitter</a> || <a href="https://www.linkedin.com/in/amjohnphilip">LinkedIn</a> || <a href="https://amjohnphilip.medium.com/">Blog</a> ||  <a href="https://www.youtube.com/channel/UCNCzNrpq0fHxFqQYCmbwAcA">Youtube</a> ||
 </div>
 
-| Feel free to use these amazing learning resources 😃  I would _really_ appreciate a reference to this repo and the community helps me so much to maintain and improve it! 💪🏼 Thank you and have fun!   |
-|---|
+| Feel free to use these amazing learning resources 😃  I would _really_ appreciate a reference to this repo and the community helps me so much to maintain and improve it! 💪🏼 Thank you and have fun! |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
 ---
@@ -57,6 +57,21 @@ Feel free to reach out to me! 😊 <br />
 
 - [Code with Chris](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw)
 
+- [Andy Sterkowitz](https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA)
+
+- [codeSTACKr](https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw)
+
+
+- [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+
+
+- [doctor code](https://www.youtube.com/channel/UCCkjYARLbR1ws4_lMuvJ2vg)
+
+- [Python Engineer](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA)
+
+- [CodingPhase](https://www.youtube.com/channel/UC46wWUso9H5KPQcoL9iE3Ug)
+
+- [Sonny Sangha](https://www.youtube.com/user/ssangha32)
 
 
 
