@@ -154,6 +154,11 @@ Feel free to reach out to me! 😊 <br />
 - [Medium](https://medium.com)
 
 
+- [Arctype](http://arctype.com)
+
+- [Soshace](https://blog.soshace.com)
+
+
 
 
 
